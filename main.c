@@ -1277,11 +1277,11 @@ void hakkinda() {
     printf ("\t\t\t\t          Cumartesi - Pazar:  09.00 - 04.00\n");
     printf ("\n\n\t\t\t\t\t  <<---Diger Subelerimiz--->>\n");
     printf("\t\t\t\t    --- Subelerimiz ---              --- Iletisim ---      \n");
-    printf("\t\t\t\t   Istanbul/Küçükçekmece ---------> +90 (554)-302-2794     \n");
-    printf("\t\t\t\t   Istanbul/Besiktas -------------> +90 (553)-826-5358     \n");
-    printf("\t\t\t\t   Istanbul/Sultangazi -----------> +90 (541)-843-3412     \n");
-    printf("\t\t\t\t   Istanbul/Basaksehir -----------> +90 (538)-304-1368     \n");
-    printf("\t\t\t\t   Istanbul/Tuzla ----------------> +90 (533)-732-3149     \n");
+    printf("\t\t\t\t   Istanbul/Küçükçekmece ---------> +90 (123)-456-7890     \n");
+    printf("\t\t\t\t   Istanbul/Besiktas -------------> +90 (123)-456-7890    \n");
+    printf("\t\t\t\t   Istanbul/Sultangazi -----------> +90 (123)-456-7890     \n");
+    printf("\t\t\t\t   Istanbul/Basaksehir -----------> +90 (123)-456-7890     \n");
+    printf("\t\t\t\t   Istanbul/Tuzla ----------------> +90 (123)-456-7890    \n");
     printf("\t\t\t--------------------------------------------------------------------\n");
 	printf("\t\t\t\t\t\tPromosyon kodlarimiz\n");
 	printf("\t\t\t--------------------------------------------------------------------\n");
